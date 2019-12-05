@@ -1,7 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Weather Forecast App
-    * Used to API from https://openweathermap.org/api in this project
+    * Used to API from https://openweathermap.org/api in this project.
     * Used MaterializeCss for CSS in this project.
 
 ## Available Scripts
