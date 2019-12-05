@@ -1,0 +1,9 @@
+.weather {
+  font-size: 25px;
+}
+
+.weather div {
+  padding: 5px;
+  margin: 5px;
+  color: #26a69a;
+}

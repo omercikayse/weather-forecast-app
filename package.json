@@ -16,6 +16,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
+  "author": "ayse-omercik",
   "eslintConfig": {
     "extends": "react-app"
   },
